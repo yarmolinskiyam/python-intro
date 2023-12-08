@@ -22,23 +22,23 @@ def slice_list(lst, start, end):
 def append_element(lst, element):
     # Append the given element to the end of the list
     #!v
-    
+    pass
     #!^
 
 def extend_list(lst, other_list):
     # Extend the list by adding elements from another list
     #!v
-    
+    pass
     #!^
 
 def remove_element(lst, element):
     # Remove the first occurrence of the given element from the list
     #!v
-    
+    pass
     #!^
 
 def sort_list(lst):
     # Sort the elements of the list in ascending order
     #!v
-    
+    pass
     #!^
